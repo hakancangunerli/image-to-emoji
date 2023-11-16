@@ -15,7 +15,8 @@ NumPy
 
 
 # Demo
-<img width="679" alt="Screenshot 2023-11-16 at 3 02 35 PM" src="https://github.com/johngunerli/image-to-emoji/assets/33205097/f57316ff-a798-49f2-8976-0503569baaf0">
+
+<img width="679" alt="Screenshot 2023-11-16 at 3 02 35 PM" src="https://github.com/johngunerli/image-to-emoji/assets/33205097/7e8bbb57-26f5-4b68-9351-ffc20122e1af">
 
 
 # Resources:
