@@ -1,5 +1,16 @@
 # image-to-emoji
-image to emoji interface
+This Streamlit app converts an uploaded image into a relevant emoji. It uses machine learning models to generate a caption for the image and then finds the most similar emoji based on this caption.
+
+# Requirements
+Python 3.x
+Streamlit
+Requests
+Pillow
+Transformers
+Sentence Transformers
+Scikit-learn
+Pandas
+NumPy
 
 
 
